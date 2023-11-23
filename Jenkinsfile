@@ -1,10 +1,7 @@
 pipeline {
 
     agent any
-    environment {
     
-    }
-
           stage('Deploy') {
 
             steps {
